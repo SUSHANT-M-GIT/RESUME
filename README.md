@@ -1,2 +1,3 @@
-** HI !
-A RESUME FILE WHICH CAN HELP YOU TO KNOW MORE ABOUT ME **
+## 👋 Hi!
+
+Here is my resume if you want to know more about me, my skills, projects, and MYSELF.
